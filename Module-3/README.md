@@ -4,7 +4,7 @@ This is another sentence at the top of the README.md file
 
 In Module 3 exercise #17 you will change the block-quote below:
 
-`This is a line you will change!`
+`I'll be back!`
 
 1. Pappardelle w/shrimp
 2. Rotolo di melanzane
